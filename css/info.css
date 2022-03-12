@@ -1,0 +1,104 @@
+			.textbox-filtros2{
+				height: 24px;
+				width: 38.9%;
+				text-align: center;
+				padding: 5 7px;
+			}
+
+			.fieldset-info{
+				width: 40%;
+				height: 85px;
+			}
+
+        	.h1-info {
+            	padding: 2px;
+            	margin: 10px;
+        	}
+
+           	.h2-info {
+            	padding: 15px;
+            	margin: 25px;
+            	width: 58%;
+            	height: 1px;
+        	}
+			
+			.pre-serie {
+				text-align: left;
+				word-wrap: break-word;
+            	text-align: justify;
+				width: 80%;
+  				
+        	}
+
+        	.pre-info {
+				text-align: left;
+            	font-weight: bolder;
+  				width: 58%;
+        	}
+
+			.div-filtros2{
+				display: flex;
+				justify-content: flex-end;
+				flex-wrap: wrap;
+				
+			}
+
+			.image-info{
+				height: 700px;
+				width: 30%;
+				margin: 15px;
+			}
+
+			.image-sugest{
+				height: 400px;
+				width: 19.3%;
+			}
+
+			.h1-sugest {
+				text-align: center;
+            	font-weight: bold;
+            	color: yellow;
+            	width: 368px;
+            	background-color: black;
+            	padding: 10px;
+            	margin: 10px;
+            	width: 95%;
+        	}
+
+
+			.div-sugest {
+  				display: inline-block;
+  				padding: 2rem 1rem;
+  				width: 100%;
+			}
+
+        	.row-sugest {
+  				display: flex;
+  				flex-wrap: wrap;
+  				padding: 6px;
+  				margin: 10px;
+			}
+
+			.column-sugest {
+  				flex: 90%;
+  				padding: 2 6px;
+			}
+
+    		.caixa-trailer{
+        		position: relative;
+        		display: inline-block;
+    		}
+    		.caixa-trailer .texto-trailer{
+        		position: absolute;
+        		z-index: 999;
+        		margin: 0 auto;
+        		left: 0;
+        		right: 0;
+        		top: 60%;
+        		text-align: center;
+        		width: 100%;
+    		}	
+			
+				  
+				  
+        	
